@@ -1,5 +1,5 @@
 # Calculadora-IMC-React-Native
-Calculadora de IMC criado em React Native.
+Calculadora de IMC em React Native.
 
 - Funções nomeadas em Português para melhor compreensão.
 - Calcular novamente apenas funcionará quando os dois valores mudar.
